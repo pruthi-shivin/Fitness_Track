@@ -2,7 +2,7 @@
   "name": "Fitness Tracker",
   "short_name": "FitTrack",
   "description": "Personal fitness tracking app",
-  "start_url": "/",
+  "start_url": "/Fitness_Track/",
   "display": "standalone",
   "background_color": "#0f0f23",
   "theme_color": "#00d4ff",
