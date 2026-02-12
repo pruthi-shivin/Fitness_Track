@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fitness_Track/static/css/main.fe8a9075.css",
+    "main.js": "/Fitness_Track/static/js/main.bd679242.js",
+    "static/js/453.f148dd14.chunk.js": "/Fitness_Track/static/js/453.f148dd14.chunk.js",
+    "index.html": "/Fitness_Track/index.html",
+    "main.fe8a9075.css.map": "/Fitness_Track/static/css/main.fe8a9075.css.map",
+    "main.bd679242.js.map": "/Fitness_Track/static/js/main.bd679242.js.map",
+    "453.f148dd14.chunk.js.map": "/Fitness_Track/static/js/453.f148dd14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe8a9075.css",
+    "static/js/main.bd679242.js"
+  ]
+}
